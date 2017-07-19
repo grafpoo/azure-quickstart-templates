@@ -112,7 +112,7 @@
     "concourseDbRoleName": "admin",
     "concourseDbRolePassword": "admin",
 
-    "vmSize": "Standard_D1",
+    "vmSize": "Standard_D2",
     "nicName": "[parameters('vmName')]",
     "devboxPrivateIPAddress": "10.0.0.100",
     "imagePublisher": "Canonical",
